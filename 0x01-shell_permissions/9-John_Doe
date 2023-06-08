@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ogu 713 hello
+chmod 713  hello
